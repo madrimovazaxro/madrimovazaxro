@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/madrimovazaxro"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://linkedin.com/in/madrimovazaxro](https://www.linkedin.com/in/zaxro-madrimova-936383406/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://leetcode.com/u/zaxromadrimova/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
