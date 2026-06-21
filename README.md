@@ -57,23 +57,9 @@ I am a Computer Science & Software Engineering student at **INHA University in T
 | :--- | :---: | :--- |
 | 🚗 [**car-price-prediction-eda**](https://github.com/madrimovazaxro/car-price-prediction-eda) | `Data Science` | Comprehensive EDA on 6,700+ used-car listings exploring distribution, correlation, and outlier trends. |
 | 🏫 [**University-Management-System**](https://github.com/madrimovazaxro/University-Management-System) | `OOP / C++` | A complete management backend utilizing inheritance, polymorphism, and file handling. |
-| 🧪 **LabXplore — Virtual Science Lab** | `EdTech` | Interactive web platform allowing high school students to perform simulated STEM experiments. |
-| 🤖 **Pilot — Robotics Learning App** | `UI/UX & Code` | A beginner-friendly interactive application built to teach kids the fundamentals of robotics. |
+| 🧪 [**LabXplore — Virtual Science Lab**](https://github.com/madrimovazaxro/LabXplore) | `EdTech` | Interactive web platform allowing high school students to perform simulated STEM experiments. |
+| 🤖 [**Pilot — Robotics Learning App**](https://github.com/madrimovazaxro/Pilot) | `UI/UX & Code` | A beginner-friendly interactive application built to teach kids the fundamentals of robotics. |
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madrimovazaxro&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madrimovazaxro&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madrimovazaxro&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i> <br>
